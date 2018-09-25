@@ -17,4 +17,4 @@ My main guidlines are as follows:
 3. be able to change the numbers I want to divide by
 4. Have fun while learning!
 
-I'll continue to update this repo as I continue through the task.
+I'll continue to update this README as I continue through the task.
